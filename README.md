@@ -1,1 +1,5 @@
-我的leetcode-cn代码  使用Python3编写
+# LEETCODE SOLUTIONS 
+
+--------
+
+我的**leetcode-cn**代码  使用***Python3/C++***编写
