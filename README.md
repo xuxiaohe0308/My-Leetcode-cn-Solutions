@@ -2,4 +2,7 @@
 
 --------
 
-我的**leetcode-cn**代码  使用 `Python3/C++` 编写
+我的**leetcode-cn**解（python3 / c++）
+
+latest update：（链表+双指针）`876, 160, 206`
+
