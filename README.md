@@ -2,6 +2,8 @@
 
 我的**leetcode-cn**解（python3 / c++）
 
+各大公司笔试/面试真题的收集详见[这里](./真题/)
+
 ## Update log：
 
 **Before 2021.9.1**
